@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: #FF9999;
+    color: #0A1172;
+    padding: 30px;
+    padding-top: 50px;
+    font-family: "Roboto";
+}
+
+.vertical-line {
+    background-color: #0A1172 !important;
+    width: 5px;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.profile-bar {
+    margin-top: 20px;
+}
+
+.icons {
+    font-size: 36px;
+    border-style: solid;
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 100%;
+    margin-right: 24px;
+
+}
+
+.icon-heading {
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.work-bar {
+    margin-top: 20px;
+}
+
+.name-heading {
+    font-weight: bold;
+    margin-right: 24px;
+}
+
+.paragraph {
+    font-size: 10px;
+    padding-right: 20px;
+}
+
+.h6 {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.years {
+    padding-bottom: 20px;
+}
+
+.dot {
+    margin-right: 3px;
+}
+
+.dot1 {
+    margin-left: 72px;
+
+}
+
+.dot2 {
+    margin-left: 20px;
+}
+
+.dot3 {
+    margin-left: 48px;
+}
+
+.dot4 {
+    margin-left: 22px;
+}
+
+.dot5 {
+    margin-left: 46px;
+}
+
+.skills-container {
+    margin-top: 20px;
+}
+
+.skills-bar {
+    margin-top: 30px;
+}
+
+.interest-bar {
+    margin-right: 30px;
+}
+
+.icons1 {
+    color: #FF9999;
+    background-color: #0A1172;
+    font-size: 36px;
+    border-style: solid;
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 100%;
+    margin-right: 24px;
+
+}
